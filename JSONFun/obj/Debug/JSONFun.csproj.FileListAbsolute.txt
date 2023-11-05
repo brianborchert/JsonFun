@@ -1,0 +1,10 @@
+C:\Users\brian\source\repos\JSONFun\JSONFun\bin\Debug\JSONFun.exe.config
+C:\Users\brian\source\repos\JSONFun\JSONFun\bin\Debug\JSONFun.exe
+C:\Users\brian\source\repos\JSONFun\JSONFun\bin\Debug\JSONFun.pdb
+C:\Users\brian\source\repos\JSONFun\JSONFun\obj\Debug\JSONFun.csproj.AssemblyReference.cache
+C:\Users\brian\source\repos\JSONFun\JSONFun\obj\Debug\JSONFun.csproj.CoreCompileInputs.cache
+C:\Users\brian\source\repos\JSONFun\JSONFun\obj\Debug\JSONFun.exe
+C:\Users\brian\source\repos\JSONFun\JSONFun\obj\Debug\JSONFun.pdb
+C:\Users\brian\source\repos\JSONFun\JSONFun\bin\Debug\Newtonsoft.Json.dll
+C:\Users\brian\source\repos\JSONFun\JSONFun\bin\Debug\Newtonsoft.Json.xml
+C:\Users\brian\source\repos\JSONFun\JSONFun\obj\Debug\JSONFun.csproj.CopyComplete
